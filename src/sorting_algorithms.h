@@ -24,9 +24,4 @@ void insertion_sort(vector<int>& nums);
 // ================== SELECTION SORT ==================
 void selection_sort(vector<int>& nums);
 // ====================================================
-
-
-// ================== INBUILT SORT ==================
-void inbuilt_sort(vector<int>& nums);
-// ==================================================
 #endif
